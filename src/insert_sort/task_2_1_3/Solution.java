@@ -1,25 +1,23 @@
 package insert_sort.task_2_1_3;
 
+/*2.1-3
+Найти элемент в массиве*/
 public class Solution {
     public static void main(String[] args) {
-    int[] input=new int[]{31, 41, 59, 26, 41, 58};
-    sortFunction(input);
-}
+        int[] input = new int[]{31, 41, 59, 26, 41, 58};
+        int c = 500;
+        showResult(finditem(input, c), c);
+    }
 
-    static void sortFunction(int[] A) {
-        int i,j,key;
-        for (j=1;j<A.length;j++){
-            key=A[j];
-            i=j-1;
-            while (i>-1&&A[i]>key){
-                A[i+1]=A[i];
-                i=i-1;
-            }
-            A[i+1]=key;
+    private static boolean finditem(int[] A, int c) {
+        int j;
+        for (j = 0; j < A.length; j++) {
+            if (A[j] == c) return true;
         }
-        for(j=0;j<A.length;j++){
-            System.out.print(A[j]);
-            System.out.print(" ");
-        }
+        return false;
+    }
+
+    private static void showResult(boolean condition, int c) {
+        System.out.print(condition ? c : "nill");
     }
 }
