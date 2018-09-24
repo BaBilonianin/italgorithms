@@ -6,7 +6,7 @@ public class Solution {
         sortFunction(input);
     }
 
-    static void sortFunction(int[] A) {
+    private static void sortFunction(int[] A) {
         int i, j, key;
         for (j = 1; j < A.length; j++) {
             key = A[j];
