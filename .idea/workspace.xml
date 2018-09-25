@@ -1,7 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b6a2f8f4-88f8-4757-be87-70fcc00b1da8" name="Default" comment="" />
+    <list default="true" id="b6a2f8f4-88f8-4757-be87-70fcc00b1da8" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/italgorithms.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/italgorithms.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/.idea/description.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/.idea/project-template.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/HackerRank.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/src/com/company/Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/src/insert_sort/task_2_1_1/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/all/insert_sort/task_2_1_1/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/src/insert_sort/task_2_1_2/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/all/insert_sort/task_2_1_2/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/src/insert_sort/task_2_1_3/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/all/insert_sort/task_2_1_3/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/src/insert_sort/task_2_1_4/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/all/insert_sort/task_2_1_4/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/src/kFactorization/Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/src/max_sum/task_4_1_3/MyResult.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/src/max_sum/task_4_1_3/Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/src/mergeSort/MergeSort.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/src/miniMaxSum/Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/src/plusMinus/Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/src/testCombinatuins/Solution.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/src/testCombinatuins/SolutionVer2.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/HackerRank/src/timeConversion/Solution.java" beforeDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,23 +73,23 @@
     <session id="599916372">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="2" />
-          <entry key="project.open.time.0" value="1" />
+          <entry key="project.closed" value="4" />
+          <entry key="project.open.time.0" value="4" />
           <entry key="project.open.time.5" value="1" />
           <entry key="project.open.time.7" value="1" />
-          <entry key="project.opened" value="3" />
+          <entry key="project.opened" value="6" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
         <counts>
           <entry key="class" value="2" />
-          <entry key="java" value="20" />
+          <entry key="java" value="21" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="CLASS" value="2" />
-          <entry key="JAVA" value="20" />
+          <entry key="JAVA" value="21" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
@@ -83,25 +107,10 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="450">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/max_sum/task_4_1_3/Solution.java">
+        <entry file="file://$PROJECT_DIR$/all/insert_sort/task_2_1_1/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="76" column="16" lean-forward="true" selection-start-line="76" selection-start-column="16" selection-end-line="76" selection-end-column="16" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#399#400#0" expanded="true" />
-                <element signature="e#449#450#0" expanded="true" />
-                <element signature="method#findMaxCrossSubarray#0;class#Solution#0" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/max_sum/task_4_1_3/MyResult.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="177">
-              <caret line="6" column="11" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="11" />
+            <state relative-caret-position="231">
+              <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
             </state>
           </provider>
         </entry>
@@ -153,9 +162,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
-      <pane id="Scope" />
-      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -166,22 +172,25 @@
             <path>
               <item name="italgorithms" type="b2602c69:ProjectViewProjectNode" />
               <item name="italgorithms" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="all" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="italgorithms" type="b2602c69:ProjectViewProjectNode" />
               <item name="italgorithms" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="all" type="462c0819:PsiDirectoryNode" />
               <item name="insert_sort" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1536957381350" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1537898011911" />
     <property name="extract.method.default.visibility" value="private" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -190,8 +199,10 @@
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
-    <key name="CreateClassDialog.RecentsKey">
-      <recent name="max_sum.task_4_1_3" />
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\teach\italgorithms\all" />
+      <recent name="C:\teach\algorithms\src\insert_sort" />
+      <recent name="C:\teach\algorithms\src" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="insert_sort.task_2_1_4" />
@@ -199,9 +210,8 @@
       <recent name="insert_sort.task_2_1_2" />
       <recent name="" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\teach\algorithms\src\insert_sort" />
-      <recent name="C:\teach\algorithms\src" />
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="max_sum.task_4_1_3" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -216,7 +226,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Solution (4)">
+  <component name="RunManager" selected="Application.Solution">
     <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
       <module name="" />
       <option name="TESTING_TYPE" value="0" />
@@ -391,11 +401,11 @@
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Solution" />
         <item itemvalue="Application.Solution (4)" />
         <item itemvalue="Application.Solution (3)" />
         <item itemvalue="Application.Solution (2)" />
         <item itemvalue="Application.Solution (1)" />
-        <item itemvalue="Application.Solution" />
       </list>
     </recent_temporary>
   </component>
@@ -416,7 +426,7 @@
     <frame x="1" y="1" width="1918" height="1018" extended-state="1" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15709643" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2524377" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Nl-Palette" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
@@ -426,7 +436,7 @@
       <window_info id="Capture Tool" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.0047675804" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.23957092" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.42193088" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -475,21 +485,11 @@
     <entry file="file://$PROJECT_DIR$/result/production/algorithms/Main.class">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/insert_sort/task_2_1_3/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-100">
-          <caret line="7" column="19" selection-start-line="7" selection-start-column="19" selection-end-line="7" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/insert_sort/task_2_1_3/Solution.java" />
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/io/PrintStream.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="200">
           <caret line="694" column="16" selection-start-line="694" selection-start-column="16" selection-end-line="694" selection-end-column="16" />
-          <folding>
-            <element signature="e#24380#24381#0" expanded="true" />
-            <element signature="e#24405#24406#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -500,56 +500,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/insert_sort/task_2_1_4/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="22" column="27" selection-start-line="22" selection-start-column="27" selection-end-line="22" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/insert_sort/task_2_1_1/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="462">
-          <caret line="14" column="29" lean-forward="true" selection-start-line="14" selection-start-column="29" selection-end-line="14" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/insert_sort/task_2_1_2/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="5" column="27" lean-forward="true" selection-start-line="5" selection-start-column="27" selection-end-line="5" selection-end-column="44" />
-          <folding>
-            <element signature="method#showResults#0;class#Solution#0" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/insert_sort/task_2_1_4/Solution.java" />
+    <entry file="file://$PROJECT_DIR$/src/insert_sort/task_2_1_1/Solution.java" />
+    <entry file="file://$PROJECT_DIR$/src/insert_sort/task_2_1_2/Solution.java" />
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/lang/Math.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-2063">
           <caret line="433" column="25" lean-forward="true" selection-start-line="433" selection-start-column="25" selection-end-line="433" selection-end-column="25" />
-          <folding>
-            <element signature="e#17181#17182#0" expanded="true" />
-            <element signature="e#17264#17265#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/max_sum/task_4_1_3/MyResult.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="177">
-          <caret line="6" column="11" selection-start-line="6" selection-start-column="11" selection-end-line="6" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/max_sum/task_4_1_3/MyResult.java" />
     <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/util/ArrayList.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="235">
           <caret line="552" column="16" selection-start-line="552" selection-start-column="16" selection-end-line="552" selection-end-column="16" />
-          <folding>
-            <element signature="e#13541#13542#0" expanded="true" />
-            <element signature="e#13596#13597#0" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -560,16 +525,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/max_sum/task_4_1_3/Solution.java">
+    <entry file="file://$PROJECT_DIR$/src/max_sum/task_4_1_3/Solution.java" />
+    <entry file="file://$PROJECT_DIR$/all/insert_sort/task_2_1_1/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="76" column="16" lean-forward="true" selection-start-line="76" selection-start-column="16" selection-end-line="76" selection-end-column="16" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#399#400#0" expanded="true" />
-            <element signature="e#449#450#0" expanded="true" />
-            <element signature="method#findMaxCrossSubarray#0;class#Solution#0" />
-          </folding>
+        <state relative-caret-position="231">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
         </state>
       </provider>
     </entry>
@@ -625,7 +585,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>algorithms</last-edited>
+          <last-edited>italgorithms</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
