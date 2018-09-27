@@ -20,7 +20,7 @@ public class Solution {
     private static void heapSort(int[] source) {
         buildMaxHeap(source);
         int temp;
-        for (int i = source.length - 1; i >= 0; i--) {
+        for (int i = source.length - 1; i >= 1; i--) {
             temp = source[0];
             source[0] = source[i];
             source[i] = temp;
