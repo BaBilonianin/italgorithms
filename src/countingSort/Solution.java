@@ -14,7 +14,7 @@ public class Solution {
 
     /*
      * We must know max element in array*/
-    private static void countingSort(int[] arr, int maxElement) {
+    public static void countingSort(int[] arr, int maxElement) {
         int[] countArray = new int[maxElement + 1];
         int[] resultArray = new int[arr.length];
 
